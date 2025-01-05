@@ -1,5 +1,6 @@
 # Automatic Readability Assessment 
 
+## The original code and architecture has not shared because some paper work is going on
 ## Overview
 The Readability Assessment is a Python-based application designed to evaluate the readability of text passages. It incorporates various readability metrics and semantic features to provide insights into the complexity of educational content. This  is particularly useful for educators and content creators to ensure that text materials are appropriately tailored to the target audience's reading level.
 
